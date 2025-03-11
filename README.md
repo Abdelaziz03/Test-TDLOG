@@ -1,1 +1,3 @@
-# Test-TDLOG
+#TDLOG : Algoritmic plus + 
+
+C++ projects
